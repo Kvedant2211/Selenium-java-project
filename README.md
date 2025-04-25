@@ -1,2 +1,5 @@
-# Selenium-java-
-Automating a website using java selenium
+# Selenium-java-project
+-Automating a website using java selenium
+
+
+
