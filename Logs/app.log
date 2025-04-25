@@ -1,0 +1,16 @@
+2025-03-24 10:13:54 [main] INFO  com.hcl.main.HCLDemowReportTestcasesLogger - Setting up the test environment
+2025-03-24 10:14:38 [main] INFO  com.hcl.main.HCLDemowReportTestcasesLogger - Test environment setup complete
+2025-03-24 10:14:38 [main] INFO  com.hcl.main.HCLDemowReportTestcasesLogger - Navigated to Menu Page
+2025-03-24 10:14:55 [main] INFO  com.hcl.main.HCLDemowReportTestcasesLogger - Menu Completed: 1 with size: 25
+2025-03-24 10:14:57 [main] INFO  com.hcl.main.HCLDemowReportTestcasesLogger - Menu Completed: 2 with size: 25
+2025-03-24 10:14:59 [main] INFO  com.hcl.main.HCLDemowReportTestcasesLogger - Menu Completed: 3 with size: 0
+2025-03-24 10:15:04 [main] INFO  com.hcl.main.HCLDemowReportTestcasesLogger - Menu Completed: 4 with size: 17
+2025-03-24 10:15:05 [main] INFO  com.hcl.main.HCLDemowReportTestcasesLogger - Menu Completed: 5 with size: 3
+2025-03-24 10:15:09 [main] INFO  com.hcl.main.HCLDemowReportTestcasesLogger - Menu Completed: 6 with size: 30
+2025-03-24 10:15:09 [main] INFO  com.hcl.main.HCLDemowReportTestcasesLogger - Menu test case passed
+2025-03-24 10:15:11 [main] INFO  com.hcl.main.HCLDemowReportTestcasesLogger - Navigated to ContactUs Page
+2025-03-24 10:15:47 [main] INFO  com.hcl.main.HCLDemowReportTestcasesLogger - Login test case passed
+2025-03-24 10:15:49 [main] INFO  com.hcl.main.HCLDemowReportTestcasesLogger - Capturing ScreenShot
+2025-03-24 10:15:52 [main] INFO  com.hcl.main.HCLDemowReportTestcasesLogger - Screenshot test case passed
+2025-03-24 10:15:54 [main] INFO  com.hcl.main.HCLDemowReportTestcasesLogger - Navigated to AboutUs Page
+2025-03-24 10:16:30 [main] INFO  com.hcl.main.HCLDemowReportTestcasesLogger - AboutUs test case passed
